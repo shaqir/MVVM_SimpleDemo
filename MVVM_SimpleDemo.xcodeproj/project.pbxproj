@@ -68,12 +68,12 @@
 				DF513C16243BC5FB005F15C6 /* View */,
 				DF513C14243BC5D1005F15C6 /* ViewModel */,
 				DF513C15243BC5DE005F15C6 /* BInding */,
+				DF513C17243BC7CD005F15C6 /* Extensions */,
 				DF513BF5243BBF48005F15C6 /* AppDelegate.swift */,
 				DF513BFD243BBF48005F15C6 /* Main.storyboard */,
 				DF513C00243BBF4A005F15C6 /* Assets.xcassets */,
 				DF513C02243BBF4A005F15C6 /* LaunchScreen.storyboard */,
 				DF513C05243BBF4A005F15C6 /* Info.plist */,
-				DF513C11243BC39C005F15C6 /* MasterViewController-UITableViewDataSource.swift */,
 			);
 			path = MVVM_SimpleDemo;
 			sourceTree = "<group>";
@@ -109,6 +109,14 @@
 				DF513BFB243BBF48005F15C6 /* DetailViewController.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		DF513C17243BC7CD005F15C6 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				DF513C11243BC39C005F15C6 /* MasterViewController-UITableViewDataSource.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
