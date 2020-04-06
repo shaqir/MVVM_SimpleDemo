@@ -1,0 +1,5 @@
+MVVM Demo 
+
+Its a simple MVVM example created using master template of XCode.
+
+Add new date by pressing plus button and see the magic of MVVM architecture and one way binding of ViewModel to View.
